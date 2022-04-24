@@ -30,10 +30,12 @@ while True:
     print("[+] Input Number Only!")
 
 # Passwords Generator:
+print("\n")
 for i in range(times):
   password = "".join(random.sample(all, chr))
   passList.append(password)
-print("[+] Processing . . .")
+  print(f"[>] {password}")
+print("\n")
 for i in passList:
   i = i + "\n"
   with open(f'C:\\Users\\{userName}\\Desktop\\passGen.txt', 'a') as f:
