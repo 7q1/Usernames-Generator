@@ -15,10 +15,10 @@ _b = 0
 
 # <!---------------------------------------- >
 # Pervent ValueError:
-print("[+] Input Number Only!")
+print("\n\n[+] Input Number Only!")
 while True:
   try:
-    times = int(input('[?] How many passowrds >> '))
+    times = int(input('[?] How many passwords >> '))
     break
   except:
     print("[+] Input Number Only!")
