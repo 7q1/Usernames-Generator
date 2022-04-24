@@ -6,5 +6,8 @@ Passwords OR Users generator for checkers.
 
 <h2>Socials:</h2>
  <a href="https://www.instagram.com/thrudespair/">
-   <img style="height: 30px; width:40px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> </img>
+   <img style="height: 30px; width:40px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram"> </img>
   </a>
+  
+<h2>Language:</h2>
+   <img style="height: 30px; width:40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> </img>
