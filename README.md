@@ -3,11 +3,7 @@ Passwords OR Users generator for checkers.
 
 ![ter](https://user-images.githubusercontent.com/104280578/164953838-c65eca70-86c3-4c90-ab77-5f09c4c7361d.png)
 
-<style>
-  img:hover{
-   transform:scale(1.2);
-  }
-</style>
+
 
 <h2>Socials:</h2>
  <a href="https://www.instagram.com/thrudespair/" target="_blank">
