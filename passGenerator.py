@@ -39,5 +39,5 @@ for i in passList:
   with open(f'C:\\Users\\{userName}\\Desktop\\passGen.txt', 'a') as f:
     f.write(i)
 input("[+] Lists Saved AS (passGen.txt) In Desktop.\n\nPress Enter To exit . . .")
-
+# exit()
 # <!---------------------------------------- >
