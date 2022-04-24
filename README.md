@@ -10,6 +10,6 @@ Passwords OR Users generator for checkers.
   </a>
   
 <h2>Language:</h2>
-   <a src="https://www.python.org/">
+   <a href="https://www.python.org/">
     <img style="height: 40px; width:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> </img>
    </a>
