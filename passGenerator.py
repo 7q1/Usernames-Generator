@@ -33,7 +33,7 @@ while True:
 for i in range(times):
   password = "".join(random.sample(all, chr))
   passList.append(password)
-print("Processing . . .")
+print("[+] Processing . . .")
 for i in passList:
   i = i + "\n"
   with open(f'C:\\Users\\{userName}\\Desktop\\passGen.txt', 'a') as f:
