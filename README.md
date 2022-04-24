@@ -4,7 +4,8 @@ Passwords OR Users generator for checkers.
 <h5>-> Choose how many password to generate, Also limit the length of password character.</h5>
 <h5>-> Script will Auto-Create .txt file in desktop with the generated lists after finishing.</h5>
 
-![unknown](https://user-images.githubusercontent.com/104280578/164954699-78189a15-5bf4-4d05-8807-44504f8e72ea.png)
+![termi](https://user-images.githubusercontent.com/104280578/164954995-fb2ba9b3-203b-4676-bb3f-aadd994064a9.png)
+
 
 
 
