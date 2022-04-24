@@ -10,4 +10,4 @@ Passwords OR Users generator for checkers.
   </a>
   
 <h2>Language:</h2>
-   <img style="height: 30px; width:40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> </img>
+   <img style="height: 40px; width:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> </img>
