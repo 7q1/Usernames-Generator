@@ -8,7 +8,7 @@ Usernames OR Passowords generator.
 
 
 
-
+---
 
 ## Socials:
 
