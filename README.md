@@ -4,6 +4,8 @@ Usernames OR Passowords generator.
 <h5>-> Choose how many password to generate, Also limit the length of password character.</h5>
 <h5>-> Script will Auto-Create .txt file in desktop with the generated lists after finishing.</h5>
 
+---
+
 ![termi](https://user-images.githubusercontent.com/104280578/164954995-fb2ba9b3-203b-4676-bb3f-aadd994064a9.png)
 
 
