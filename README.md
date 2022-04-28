@@ -1,5 +1,5 @@
-# Password-Generator
-Passwords OR Users generator for checkers.
+# Usernames-Generator
+Usernames OR Passowords generator.
 
 <h5>-> Choose how many password to generate, Also limit the length of password character.</h5>
 <h5>-> Script will Auto-Create .txt file in desktop with the generated lists after finishing.</h5>
