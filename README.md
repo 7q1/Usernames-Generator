@@ -25,8 +25,3 @@ Passwords OR Users generator for checkers.
    <a href="https://www.python.org/" target="_blank">
     <img style="height: 40px; width:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> </img>
    </a>
-
-<h2>Language:</h2>
-   <a href="https://www.python.org/" target="_blank">
-    <img style="height: 40px; width:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> </img>
-   </a>
