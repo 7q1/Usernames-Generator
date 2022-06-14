@@ -18,13 +18,13 @@ _b = 0
 print("\n\n[+] Input Number Only!")
 while True:
   try:
-    times = int(input('[?] How many passwords >> '))
+    times = int(input('[?] How many users to create? >> '))
     break
   except:
     print("[+] Input Number Only!")
 while True:
   try:
-    chr = int(input('[?] How many Character >> '))
+    chr = int(input('[?] How many Character? >> '))
     break
   except:
     print("[+] Input Number Only!")
@@ -38,8 +38,8 @@ for i in range(times):
 print("\n")
 for i in passList:
   i = i + "\n"
-  with open(f'C:\\Users\\{userName}\\Desktop\\passGen.txt', 'a') as f:
+  with open(f'C:\\Users\\{userName}\\Desktop\\users.txt', 'a') as f:
     f.write(i)
-input("[+] Lists Saved AS (passGen.txt) In Desktop.\n\nPress Enter To exit . . .")
+input("[+] Lists Saved AS (users.txt) In Desktop.\n\nPress Enter To exit . . .")
 
 # <!-- Null -->
